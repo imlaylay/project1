@@ -1,0 +1,78 @@
+style.css
+/* Overall page */
+body {
+    background-color: #f5f0e8;
+    color: #222222;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 40px;
+}
+.bag-image {
+    width: 100%;
+    max-width: 1050px;
+}
+
+/* Main title */
+h1 {
+    color: #8b3a3a;
+    font-family: Georgia, serif;
+    font-size: 50px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-bottom: 10px;
+}
+
+/* Section titles */
+h2 {
+    color: #8b3a3a;
+    font-family: Georgia, serif;
+    font-size: 28px;
+    margin-top: 60px;
+}
+
+/* Introduction */
+.intro {
+    font-size: 18px;
+    max-width: 650px;
+}
+
+.credit {
+    font-size: 14px;
+    color: #666666;
+}
+
+/* Interview text */
+main {
+    max-width: 800px;
+    margin: auto;
+}
+
+p {
+    font-size: 16px;
+}
+
+/* Cathy questions */
+strong {
+    color: #8b3a3a;
+}
+
+/* Links */
+a {
+    color: #8b3a3a;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Footer */
+footer {
+    margin-top: 80px;
+    padding-top: 20px;
+    border-top: 1px solid #999999;
+    text-align: center;
+    color: #666666;
+}
